@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    Hi, I'm Dharmesh! 👋 <br>
+    🔥 19 Year's Old Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React, Typescript, Nodejs, AWS ... <br>
+    :notebook: I’m currently learning DS and Algo... 😭  <br>
+    :email:	dharmeshbbay@gmail.com <br>
+    :art: Portfolio: https://dharmesh.ind.in <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/dharmeshbbay <br>
+  </samp>
+</p>
 
 <!--
 **dharmesh-r-patel/dharmesh-r-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
