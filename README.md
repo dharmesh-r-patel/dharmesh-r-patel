@@ -3,7 +3,6 @@
     Hi, I'm Dharmesh! 👋 <br>
     🔥 20 Year's Old Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Nodejs, AWS ... <br>
-    :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	dharmeshbbay@gmail.com <br>
     :briefcase: LinkedIn: https://linkedin.com/in/dharmesh-r-patel <br>
   </samp>
