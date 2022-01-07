@@ -5,7 +5,6 @@
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Nodejs, AWS ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	dharmeshbbay@gmail.com <br>
-    :art: Portfolio: https://dharmesh.ind.in <br>
     :briefcase: LinkedIn: https://linkedin.com/in/dharmesh-r-patel <br>
   </samp>
 </p>
